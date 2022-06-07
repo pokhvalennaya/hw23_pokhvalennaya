@@ -1,0 +1,26 @@
+body {
+  padding: 20px;
+}
+.error {
+  border-color: red;
+}
+#input {
+  margin: 0 0 5px 0;
+}
+.error_message {
+  color: red;
+}
+#list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.delete-button {
+  margin: 12px 0 0 10px;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.checkbox {
+  margin: 25px 0 0 0 !important;
+}
